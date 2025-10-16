@@ -2,8 +2,9 @@
 
 ### A passionate developer excited to grow and learn. Check out my website: <a href="jameswarren123.github.io/Portfolio/"></a>
 
--⚡I recently completed a collection of analyses and models to **Classify Adversarial Images** on the MNIST dataset.
--🔭 I’m currently working on improving autograding scripts for the entry computer science class at UGA.
+- ⚡I recently completed a collection of analyses and models to **Classify Adversarial Images** on the MNIST dataset.
+
+- 🔭 I’m currently working on improving autograding scripts for the entry computer science class at UGA.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
