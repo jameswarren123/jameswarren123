@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm James Warren
 
-### A passionate developer excited to grow and learn. Check out my website <a href="jameswarren123.github.io/Portfolio/">here</a>!
+### A passionate developer excited to grow and learn. Check out my website <a href="https://jameswarren123.github.io/Portfolio/" target="_blank">here</a>!
 
 - ⚡I recently completed a collection of analyses and models to **Classify Adversarial Images** on the MNIST dataset.
 
